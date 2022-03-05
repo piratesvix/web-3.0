@@ -3,7 +3,7 @@
 <br>
 <br>
 
-#### O Que é Blockchain?
+### O Que é Blockchain?
 
 <br>
 O blockchain é um protocolo de registro distribuído. Cada bloco que faz parte da cadeia é protegido por um código criptografado e armazena uma informação (como uma transação financeira). Quando ele é validado e se junta aos demais blocos, ganha um registro permanente e não pode ser alterado. Vale lembrar que os blocos são adicionados à blockchain de modo linear e cronológico.
@@ -11,10 +11,12 @@ O blockchain é um protocolo de registro distribuído. Cada bloco que faz parte 
 <br>
 
 A grande vantagem da blockchain é que duas partes podem fazer uma transação sem a necessidade de intermediários. Isso garante agilidade e custos menores.
+
+<br>
 <br>
 <br>
 
-#### O Que são contratos inteligentes?
+### O Que são contratos inteligentes?
 
 <br>
 
@@ -26,8 +28,10 @@ Contratos inteligentes são linhas de código armazenadas em blockchain e execut
 O que os contratos inteligentes fazem é simplificar esse processo complexo que envolve vários intermediários devido à falta de confiança entre os participantes da transação. Com sua identidade armazenada em um blockchain, os credores podem tomar rapidamente uma decisão sobre crédito. Em seguida, seria criado um contrato inteligente entre o seu banco, o revendedor e o credor para que, uma vez liberados os fundos, o credor mantenha o título do carro e o pagamento seja iniciado com base nos termos acordados. A transferência de propriedade seria automática, já que a transação é gravada em um blockchain e compartilhada entre os participantes e pode ser verificada a qualquer momento.
 
 <br>
+<br>
+<br>
 
-#### O Que é um DApp?
+### O Que é um DApp?
 
 <br>
 Ao contrário de aplicativos da **Web 2.0** como o Medium, a **Web 3.0** elimina o intermediário. Não há banco de dados centralizado que armazene o estado do aplicativo e não há servidor Web centralizado onde reside a lógica de back-end.
@@ -66,4 +70,9 @@ npx hardhat help
 
 <br>
 <br>
-Mais sobre blockchain com as fontes: https://www.tecmundo.com.br/software/176575-contratos-inteligentes-blockchain.htm
+Mais sobre blockchain com as fontes: 
+
+https://www.tecmundo.com.br/software/176575-contratos-inteligentes-blockchain.htm
+https://hardhat.org/guides/project-setup.html
+https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
+https://blog.suhailkakar.com/setup-and-build-your-first-web-3-application
